@@ -36,5 +36,4 @@ This repository helps me:
 
 ---
 
-## 📁 Folder Structure (Suggestion)
 
